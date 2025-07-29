@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hello, I’m Nitesh Goad
+
+Software Developer at **Meril**, based near Ahmedabad, Gujarat  
+Aspiring full‑stack developer with proficiency in Python, Django, React, and Node.js
 
 <!--
 **nitesh2910/nitesh2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
