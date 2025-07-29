@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Django, Python, REST APIs, or React**
 
-- 📫 Reach me at **goadnitesh2910@gmail.com**
+- 📫 Reach me at **goadnitesh4813@gmail.com**
 
 ---
 
